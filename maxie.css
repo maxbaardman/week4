@@ -1,0 +1,18 @@
+img.left {
+    float: right;
+    width: 400px;
+    margin-right:10px;
+    border-style: solid;
+}
+img.right {
+    float: right;
+    margin-right:10px;
+    border-style: solid;
+}
+img.middle {
+	float: right;
+    width: 400px;
+    height: 400px;
+	margin-right:10px;
+    border-style: solid;
+}
